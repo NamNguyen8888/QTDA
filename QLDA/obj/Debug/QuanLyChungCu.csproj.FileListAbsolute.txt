@@ -1,0 +1,73 @@
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\bin\Debug\QuanLyChungCu.exe.config
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\bin\Debug\QuanLyChungCu.exe
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\bin\Debug\QuanLyChungCu.pdb
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Docking.dll
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Form1.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Properties.Resources.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.GenerateResource.cache
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.CopyComplete
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.exe
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.pdb
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Dich_vu.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Loaidichvu.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Nhanvien.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Timkiemdichvucs.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Timkiemnhanvien.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.khachhang.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.timkiemkhachhang.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Canho.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Timkiemcanho.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Luongcoban.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Thanhtoan.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Thanhtoancanho.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.hopdong.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.ResolveComReference.cache
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Thongkeluongnhanvie.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.thongkekhachhangdamuacanho.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Tracuunhanvien.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.tracuukhachhang.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.dangki.resources
+E:\Microsoft Visual Studio\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.dangnhap.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\bin\Debug\QuanLyChungCu.exe.config
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\bin\Debug\QuanLyChungCu.exe
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\bin\Debug\QuanLyChungCu.pdb
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.AssemblyReference.cache
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.SuggestedBindingRedirects.cache
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.ResolveComReference.cache
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.Canho.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.dangki.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.dangnhap.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.Form1.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.khachhang.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.Loaidichvu.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.Luongcoban.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.Nhanvien.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.Properties.Resources.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.Thanhtoan.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.Thongkeluongnhanvie.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.Timkiemdichvucs.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.timkiemkhachhang.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.Timkiemnhanvien.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.tracuukhachhang.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.Tracuunhanvien.resources
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.GenerateResource.cache
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.CoreCompileInputs.cache
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.CopyComplete
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.exe
+D:\Quanlychungcu-master\Quanlychungcu-master\QuanLyChungCu\obj\Debug\QuanLyChungCu.pdb
